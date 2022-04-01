@@ -1,0 +1,9 @@
+  javac -cp lib/jar-file1;jar-file2;jar-file3 Main.java
+
+  java -cp lib/joda-time-2.9.1.jar; lib/opencsv-2.4.jar; lib/slf4j-api-1.7.13.jar; lib/ta4j-0.7.jar; lib/ta4j-examples-0.7.jar Peace.java
+
+  
+
+  
+
+  
